@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "description": "Monthly groceries",
+        "amount": 2500,
+        "category": "Food",
+        "date": "2026-09-01",
+        "paymentMethod": "UPI",
+        "deleted": false
+    },
+    {
+        "id": "2",
+        "description": "Electricity bill",
+        "amount": 1800,
+        "category": "Bills",
+        "date": "2026-09-02",
+        "paymentMethod": "Card",
+        "deleted": false
+    },
+    {
+        "id": "3",
+        "description": "Bus tickets",
+        "amount": 500,
+        "category": "Travel",
+        "date": "2026-08-28",
+        "paymentMethod": "Cash",
+        "deleted": false
+    }
+]
